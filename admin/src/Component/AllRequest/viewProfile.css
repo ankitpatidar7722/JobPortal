@@ -1,0 +1,27 @@
+.profile-com {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 20px;
+}
+.table-container {
+  margin-left: 20%;
+  margin-right: 15%;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Adjust the height as needed */
+}
+
+.interactive-table {
+  border-collapse: collapse;
+}
+
+.interactive-table td {
+  padding: 8px;
+}
+
+.interactive-table tr:hover {
+  background-color: #b7b4b4;
+  /* Add any other hover effects as needed */
+}

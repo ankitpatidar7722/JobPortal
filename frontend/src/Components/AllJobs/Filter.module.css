@@ -1,0 +1,17 @@
+.filter {
+  /* Other styles remain unchanged */
+  /* margin-left: 2%;
+  margin-top: 1%; */
+  color: azure;
+  min-height: 800px;
+  background: #7b5dc8;
+  height: fit-content;
+}
+/* Responsive Styles */
+.btnap {
+  width: 40px;
+  height: 30px;
+  border-radius: 1px solid black;
+}
+.btncl {
+}

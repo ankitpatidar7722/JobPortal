@@ -1,0 +1,28 @@
+.allCard {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: rgb(248, 252, 248);
+  width: 350px;
+  min-height: 200px;
+  margin-left: 20px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 2);
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 30px;
+}
+.card:hover {
+  background-color: rgb(248, 252, 248);
+  width: 350px;
+  margin-left: 20px;
+  box-shadow: 0px 4px 6px rgba(170, 129, 206, 2);
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 30px;
+}
+.card:active {
+  background-color: #f0ecf3; /* Adjust this color to your preference */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* Adjust shadow on click */
+}

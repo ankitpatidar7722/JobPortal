@@ -1,0 +1,7 @@
+.hrdiv {
+  height: 100vh;
+  overflow-y: scroll;
+}
+.home {
+  min-height: 61.3vh;
+}
