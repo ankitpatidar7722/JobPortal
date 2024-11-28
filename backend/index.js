@@ -24,7 +24,7 @@ const upload = multer({ storage: storage });
 const db = mysql.createConnection({
   user: "root",
   host: "localhost",
-  password: "Manish@123",
+  password: "root",
   database: "JobPortal",
 });
 
